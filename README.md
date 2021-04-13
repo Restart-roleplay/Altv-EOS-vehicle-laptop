@@ -5,7 +5,7 @@
     <img alt="License: GPL--3.0 License" src="https://img.shields.io/badge/License-GPL--3.0 License-yellow.svg" />
   </a>
   <a href="https://twitter.com/Vesturo" target="_blank">
-    <img alt="Twitter: Vesturo" src="https://img.shields.io/twitter/follow/Vesturo.svg?style=social" />
+    <img alt="Twitter: DerVesturo" src="https://img.shields.io/twitter/follow/Vesturo.svg?style=social" />
   </a>
 </p>
 
